@@ -2,3 +2,4 @@ ColorFilterSample
 =================
 
 Android ColorMatrixColorFilter sample
+
